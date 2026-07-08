@@ -2,7 +2,7 @@
 
 The pretrained checkpoint files are available from the following Quark Cloud link:
 
-[https://pan.quark.cn/s/0b2c20d7d064](https://pan.quark.cn/s/0b2c20d7d064)
+https://pan.quark.cn/s/f259fc69e07a
 
 Please download the checkpoint files and place them in this `weights/` directory.
 
